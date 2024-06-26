@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Página de Contato é uma aplicação simples e funcional que permite aos usuários filtrar contatos diretamente na página. Este projeto me ajudou a reforçar conceitos importantes e aprender novas técnicas.
 
-- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io//)
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/Pagina-de-Contatos/)
 
 ## 🔍 Destaques do Aprendizado
 
